@@ -1,0 +1,10 @@
+[package]
+name = "minimal-dissector"
+version = "0.1.0"
+authors = ["cyrozap"]
+license = "GPL-2.0-or-later"
+edition = "2021"
+
+[lib]
+name = "minimal"
+crate-type = ["cdylib"]
